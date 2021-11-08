@@ -1,3 +1,5 @@
+//DERS 2 - 01.11.2021
+
 function addToChart(productName){
     console.log("Sepete eklendi : " + productName)
 }

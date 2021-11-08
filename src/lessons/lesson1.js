@@ -1,3 +1,5 @@
+//DERS 1 - 18.10.2021
+
 console.log("Merhaba Kodlama.io")
 var dolarDun = 9.20
 var dolarBugun = 9.30
@@ -24,3 +26,4 @@ console.log("<ul>")
 for(let i=0;i<konutKredileri.length;i++)
 {console.log("<li>"+konutKredileri[i]+"</li>")}
 console.log("</ul>")
+
