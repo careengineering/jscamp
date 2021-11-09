@@ -75,6 +75,8 @@ length: 3
 <prototype>: Array []
 */
 
+
+// <------------ REST ------------>
 function add(...numbers) { //... rest operatörü gönderilen tüm değerleri arraye yazar. başka parapetre gönderilecekse önce yaz bunu sona bırak
     let total=0
     for(let i=0;i<numbers.length;i++){
